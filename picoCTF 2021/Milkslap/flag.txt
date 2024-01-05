@@ -1,0 +1,11 @@
+Get picture from this URL http://mercury.picoctf.net:58537/concat_v.png
+
+Next, Using zsteg with concat_v.png 
+
+Oh 
+
+Before using a zsteg, you need to increase Ruby's size of the VM stack limit (RUBY_THREAD_VM_STACK_SIZE) more than the size of the picture.
+
+DOne!
+
+Flag is: picoCTF{imag3_m4n1pul4t10n_sl4p5}
